@@ -12,7 +12,7 @@
 	url = git://github.com/mbbarbosa/libsnark-supercop.git
 [submodule "depends/libff"]
 	path = depends/libff
-	url = https://github.com/strongshih/libff.git
+	url = git://github.com/strongshih/libff.git
 [submodule "depends/libfqfft"]
 	path = depends/libfqfft
-	url = https://github.com/strongshih/libfqfft.git
+	url = git://github.com/strongshih/libfqfft.git
